@@ -1,0 +1,18 @@
+name: Beszel Agent
+description: Beszel Agent for monitoring Home Assistant www.beszel.dev
+version: 0.4.0
+slug: beszel_agent
+advanced: true
+host_network: true
+init: false
+options:
+  port: 45876
+  key:
+schema:
+  port: int
+  key: str
+startup: system
+arch:
+  - amd64
+  - armhf
+  - armv7
