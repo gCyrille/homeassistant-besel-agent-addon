@@ -1,7 +1,7 @@
 ARG BUILD_FROM
 FROM $BUILD_FROM
 
-COPY --from=henrygd/beszel-agent:0.12.3 /agent /agent 
+COPY --from=henrygd/beszel-agent:0.12.7 /agent /agent 
 
 COPY run.sh /
 RUN chmod a+x /run.sh
