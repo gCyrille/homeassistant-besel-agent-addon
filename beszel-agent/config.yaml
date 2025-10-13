@@ -1,6 +1,6 @@
 name: Beszel Agent
 description: Beszel Agent for monitoring Home Assistant www.beszel.dev
-version: 0.8.0
+version: 0.9.0
 slug: beszel_agent
 advanced: true
 host_network: true
