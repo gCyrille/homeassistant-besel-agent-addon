@@ -2,8 +2,8 @@
 
 A installation method for the Beszel Agent.
 
-![Docker Image Version (tag)](https://img.shields.io/docker/v/henrygd/beszel-agent/0.15.0?style=flat-square&label=Bezel%20version)
-![Addons version (tag)](https://img.shields.io/badge/version-v0.10.0-orange.svg?style=flat-square&label=HA%20addon%20version)
+![Docker Image Version (tag)](https://img.shields.io/docker/v/henrygd/beszel-agent/0.15.4?style=flat-square&label=Bezel%20version)
+![Addons version (tag)](https://img.shields.io/badge/version-v0.11.0-orange.svg?style=flat-square&label=HA%20addon%20version)
 
 
 This add-on provides a Beszel Agent to monitor Home Assistant.
