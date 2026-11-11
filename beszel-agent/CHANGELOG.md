@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.17.1] - 2026-11-11
+
+- Set an explicit Home Assistant base image for current Supervisor builds
+- Update supported architectures to amd64 and aarch64
+- Fix the startup script's `with-contenv` path
+
 ## [0.17.0] - 2026-11-10
 
 - Bump Beszel agent version to 0.21.1

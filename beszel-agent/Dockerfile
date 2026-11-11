@@ -1,5 +1,4 @@
-ARG BUILD_FROM
-FROM $BUILD_FROM
+FROM ghcr.io/home-assistant/base:3.24
 
 COPY --from=henrygd/beszel-agent:0.21.1 /agent /agent 
 
